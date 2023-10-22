@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+footer {
+    background-color: gray;
+    padding-top: 15px;
+    color: black;
+    font-size: 14px;
+}
+
+footer .nav-link {
+    color: bisque;
+    line-height: 0.5;
+}
+
+footer a {
+    color: blue;
+
+}
+
+.custom-description {
+    text-align: justify;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.custom-text-darkgreen {
+    color: darkgreen;
+    font-weight: 700;
+    margin-top: 90px;
+}
+
+.page-content {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
