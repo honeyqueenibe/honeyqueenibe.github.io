@@ -4,10 +4,10 @@ body {
 }
 
 footer {
-    background-color: gray;
+    background-color: rgb(71, 70, 70);
     padding-top: 15px;
-    color: black;
-    font-size: 14px;
+    color: white;
+    font-size: 11px;
 }
 
 footer .nav-link {
@@ -17,7 +17,6 @@ footer .nav-link {
 
 footer a {
     color: blue;
-
 }
 
 .custom-description {
@@ -36,4 +35,6 @@ footer a {
     margin-top: 25px;
     margin-bottom: 20px;
 }
+
+
 
